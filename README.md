@@ -1,7 +1,7 @@
 - 👋 Hihi, I’m @pamesss ^-^
 - 👀 I’m interested in digitar art, UI and UX design and web development
 - 🌱 I’m currently following [this roadmap](https://roadmap.sh/pdfs/frontend.pdf) to become a Frontend developer!
-- 🖥️ So far I have learned Python and HTML5. CSS and JavaScript are my next objectives.
+- 🖥️ So far I have learned Python, HTML5 and CSS. JavaScript and responsive designs are my next objectives.
 - 📫 You can e-mail me at bllopes69@gmail.com
 
 <!---
