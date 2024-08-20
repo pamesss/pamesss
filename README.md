@@ -2,11 +2,11 @@
 <table>
     <tr>
         <!-- Ajuste da largura da célula -->
-        <td style="width: 70%;">
+        <td style="width: 50vw;">
             <!-- Ajuste da largura da imagem -->
             <img src="https://github.com/pamesss/pamesss/blob/main/firewatch.jpg" style="width:100%; border: none;"/>
         </td>
-        <td style="width: 30%; vertical-align: middle;">
+        <td style="vertical-align: middle;">
             <p style="font-family: monospace; font-size: 80px;">
               
               Pamella Sotomayor - Front-End Web Designer
